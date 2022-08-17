@@ -3,7 +3,7 @@
 ## Checkout, Some of the applications I made!!
 
 - [BlueEvents](https://jeherillajanwar.github.io/BlueEvents1/) -- An app to note down your upcoming events
-- [Calulator](https://www.chess.com) -- An app to calulate from the basics to the most complex
+- [Calulator](https://jeherillajanwar.github.io/Calculator1/) -- An app to calulate from the basics to the most complex
 - [Connect-4](https://www.chess.com) -- A tic-tac-toe-like two-player game in which players alternately place pieces on a vertical board 7 columns across and 6 rows high. If you get 4 in a row, you win!
 - [Eat!](https://www.chess.com) -- A game in which you have to stay away from the red enemies and eat blue food. 
 - [Memorize](https://www.chess.com) -- A game in which you need to match cards, and when you do so your score increases!
