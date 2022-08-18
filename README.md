@@ -12,4 +12,4 @@
 - [ShapesBlast](https://jeherillajanwar.github.io/ShapesBlast1/) -- Swipe shapes, in any direction (so long as it is not blocked), to create sets of 3 or more matching shapes. When matched, the shapes will blast and shift the shapes above them.
 - [TicTacToe](https://jeherillajanwar.github.io/TicTacToe1/) -- A tic-tac-toe game
 - [Weather](https://jeherillajanwar.github.io/Weather1/) -- An application from which you can get the latest weather of the city where you are.
-- [WordScramble](https://www.chess.com) -- A simple game in which you need to make another word from the displayed word (the navigation title).
+- [WordScramble](https://jeherillajanwar.github.io/WordScramble1/) -- A simple game in which you need to make another word from the displayed word (the navigation title).
